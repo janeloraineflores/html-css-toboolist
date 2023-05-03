@@ -24,6 +24,7 @@ body{
 header{
     background-color: white;
     padding: 20px;
+    margin-bottom: 50px;
 }
 
 h1{
@@ -33,4 +34,41 @@ h1{
 
 #logo{
     vertical-align: middle;
+}
+
+
+/* MAIN */
+
+main{
+    width: 75%;
+    margin: auto;
+    padding-left: 50px;
+    background-color: white;
+}
+
+
+/*FIRST SECTION MAIN*/
+
+.section-add{
+    font-size: x-small;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.task{
+    background-color: #47ADF1;
+    color: white;
+}
+
+.section{
+    color: #D4D8DC;
+    border: 2px solid #D4D8DC;
+}
+
+hr{
+    border: 1px solid #F4F7F8;
 }
